@@ -1,8 +1,6 @@
-# Ship Infra Project
+# Ship Infrastructure - A Hands-On Terraform Journey Through AWS
 
----
-
-## title: Ship Infrastructure - A Hands-On Terraform Journey Through AWS
+<div style="display: flex; justify-content: center; margin-bottom: 10px; "><img src="./assets/logo.png" alt="Ship Infra Project" width="150" height="96"/></div>
 
 Infrastructure as Code is now a core skill for modern software engineers. Whether you're deploying a simple service or scaling a production system, you need infrastructure that is consistent, repeatable, and version-controlled. Terraform makes that possible.
 
