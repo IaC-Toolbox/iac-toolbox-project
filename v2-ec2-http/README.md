@@ -1,3 +1,3 @@
 # Provision DNS records with Terraform
 
-The README is available here: https://ship-infra-project.viktorvasylkovskyi.com/docs/provisioning-dns-records-with-terraform
+The README is available here: https://iac-toolbox.com/docs/v1-beginner-infrastructure-as-code/provisioning-dns-records-with-terraform

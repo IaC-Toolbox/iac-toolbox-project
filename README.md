@@ -1,6 +1,4 @@
-# Ship Infrastructure - A Hands-On Terraform Journey Through AWS
-
-https://ship-infra-project.viktorvasylkovskyi.com/
+# Infrastructure as Code Toolbox - A Hands-On Terraform Journey Through AWS
 
 Infrastructure as Code is now a core skill for modern software engineers. Whether you're deploying a simple service or scaling a production system, you need infrastructure that is consistent, repeatable, and version-controlled. Terraform makes that possible.
 
